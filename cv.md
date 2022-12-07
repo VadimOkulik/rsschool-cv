@@ -9,7 +9,8 @@
 * __GitHub:__ [VadimOkulik](https://github.com/VadimOkulik)
 
 ## __About Me__
-I work as a developer in a startup, we are making a FinTech application, that CRM-system, social network for restaurants, you scan the  QR-code and immediately get to the company's website where you can place an order, pay, or make a review.
+In my free time from work,I like to spend time with my friends, play board games.
+I also like to go to dances, I like Bachata social dance. 
 
 ## __Skills__
 * HTML
@@ -18,3 +19,17 @@ I work as a developer in a startup, we are making a FinTech application, that CR
 * JavaScript
 * React
 * Git
+
+## __Example Code__
+```
+function factorial(n) {
+if (n === 0) {
+return 1;
+}
+return n *  factorial(n - 1);
+};
+alert(factorial(3));
+```
+## __Experience__
+I work as a developer in a startup, we are making a FinTech application, that CRM-system, social network for restaurants, you scan the  QR-code and immediately get to the company's website where you can place an order, pay, or make a review.
+
